@@ -1,0 +1,10 @@
+{
+  "first_component_share": 0.7243601928844445,
+  "median_correlation": 0.6702840675329617,
+  "min_correlation": 0.5540144656810653,
+  "share_at_10": {
+    "uniformity": 0.861,
+    "clean_cup": 0.911,
+    "sweetness": 0.91
+  }
+}

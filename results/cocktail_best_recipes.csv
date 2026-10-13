@@ -1,0 +1,4 @@
+response,orange,banana,mango,lemon,predicted,loo_rmse,best_tested,best_tested_value,nearest_tested,distance_to_nearest
+liking,0.78,1.17,1.95,0.0,7.38647004411193,0.4201352521917343,cocktail_02,6.98,cocktail_02,0.0
+liking segment 1,0.78,1.17,1.95,0.0,7.307025760370113,0.4766572704619668,cocktail_02,6.903225806451613,cocktail_02,0.0
+liking segment 2,0.78,1.95,1.17,0.0,7.658177370379137,0.6488182592176137,cocktail_11,7.578947368421052,cocktail_04,0.07071067811865475

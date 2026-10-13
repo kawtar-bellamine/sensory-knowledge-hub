@@ -1,0 +1,19 @@
+{
+  "countries": [
+    "Brazil",
+    "China",
+    "Colombia",
+    "Ethiopia",
+    "Guatemala",
+    "Honduras",
+    "Mexico",
+    "Nicaragua",
+    "Taiwan",
+    "Uganda",
+    "United States"
+  ],
+  "n_lots": 855,
+  "naive_total_all_lots": 0.3895251996938214,
+  "n_a": 233,
+  "n_b": 622
+}

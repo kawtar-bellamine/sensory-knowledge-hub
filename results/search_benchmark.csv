@@ -1,0 +1,33 @@
+query,category,abstain,understood,n_relevant,assistant,keyword_search,keyword_expanded
+coffees with high acidity,coffee,False,True,370,1.0,1.0,1.0
+bright coffee,coffee,False,True,370,1.0,0.0,1.0
+full-bodied coffee,coffee,False,True,484,1.0,0.2,1.0
+"a sweet, balanced coffee",coffee,False,True,465,1.0,0.0,0.0
+most aromatic coffee,coffee,False,True,409,1.0,0.0,1.0
+coffee with a long lingering finish,coffee,False,True,460,1.0,0.0,1.0
+"bright, full-bodied Kenyan coffee",coffee,False,True,7,1.0,0.0,0.4
+"washed Ethiopian coffees above 2,000 m",coffee,False,True,1,1.0,0.0,0.0
+best Colombian coffee,coffee,False,True,47,1.0,0.0,0.0
+natural coffees from Brazil with low acidity,coffee,False,True,22,1.0,1.0,1.0
+high-grown Guatemalan coffee with good balance,coffee,False,True,8,1.0,0.0,0.2
+"flavourful coffee grown below 1,000 m",coffee,False,True,66,1.0,0.6,0.4
+most aromatic robusta,coffee,False,True,8,1.0,0.0,0.8
+Mexican coffee that is not acidic,coffee,False,True,71,1.0,0.0,1.0
+creamy chocolate that is not bitter,chocolate,False,True,2,1.0,0.0,1.0
+the crunchiest chocolate,chocolate,False,False,2,0.0,0.5,0.5
+dark chocolate with lots of cocoa,chocolate,False,True,2,1.0,0.5,1.0
+chocolate with caramel and vanilla notes,chocolate,False,True,2,1.0,0.0,0.5
+a chocolate that melts in the mouth,chocolate,False,True,3,1.0,0.3333333333333333,0.3333333333333333
+least astringent chocolate,chocolate,False,True,2,1.0,0.0,0.5
+which chocolate do consumers like most,chocolate,False,False,3,0.0,0.3333333333333333,0.3333333333333333
+sweet cocktail without lemon,cocktail,False,True,4,1.0,0.25,0.5
+which juice is least sour,cocktail,False,True,4,1.0,0.0,0.5
+"a thick, pulpy smoothie",cocktail,False,True,4,1.0,0.0,0.5
+cocktail that smells of banana,cocktail,False,True,4,1.0,0.25,0.25
+most popular cocktail,cocktail,False,True,4,1.0,0.5,0.5
+a drink that is not too bitter,cocktail,False,True,4,1.0,0.0,1.0
+fruity coffee,coffee,True,True,0,1.0,0.0,0.0
+floral chocolate,chocolate,True,True,0,1.0,0.0,0.0
+coffee with low caffeine,coffee,True,True,0,1.0,0.0,0.0
+organic cocktails,cocktail,True,True,0,1.0,1.0,0.0
+smooth coffee,coffee,True,True,0,1.0,0.0,0.0

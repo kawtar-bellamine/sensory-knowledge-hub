@@ -1,0 +1,36 @@
+{
+  "coffee_rows_raw": 1339,
+  "coffee_rows_all_zero": 1,
+  "coffee_total_minus_sum_max": 0.5,
+  "coffee_altitude_missing": 230,
+  "coffee_altitude_implausible": 35,
+  "coffee_altitude_max_raw": 190164.0,
+  "coffee_process_missing": 169,
+  "coffee_harvest_year_entries": 46,
+  "coffee_share_at_10": {
+    "uniformity": 0.861,
+    "clean_cup": 0.911,
+    "sweetness": 0.91
+  },
+  "coffee_rows_clean": 1338,
+  "cocktail_replicated_recipes": [
+    [
+      "cocktail_08",
+      "cocktail_09",
+      "cocktail_10"
+    ]
+  ],
+  "cocktail_recipe_total_dl": [
+    3.8922,
+    3.9
+  ],
+  "n_products": {
+    "coffee": 1338,
+    "cocktail": 16,
+    "chocolate": 6
+  },
+  "n_consumers": {
+    "chocolate": 222,
+    "cocktail": 100
+  }
+}

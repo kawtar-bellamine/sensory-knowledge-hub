@@ -1,0 +1,46 @@
+{
+  "chocolate": {
+    "explained": [
+      0.8878916058717851,
+      0.07576560458172185
+    ],
+    "segments": {
+      "1": 129,
+      "2": 93
+    },
+    "silhouette": {
+      "2": 0.19083059342618483,
+      "3": 0.1634085708403749,
+      "4": 0.16193886477831163
+    },
+    "preference_first_share": 0.3427229059819354,
+    "preference_null_95": 0.2696339013277046,
+    "preference_p": 0.0004997501249375312,
+    "preference_axis_vs_sensory_pc1": -0.9936241437947015,
+    "prefmap_model": "vector",
+    "prefmap_max_share": 0.6216216216216216,
+    "prefmap_median_r2": 0.5295618583039153
+  },
+  "cocktail": {
+    "explained": [
+      0.5739973561598686,
+      0.23978149304962743
+    ],
+    "segments": {
+      "1": 62,
+      "2": 38
+    },
+    "silhouette": {
+      "2": 0.10532974372211029,
+      "3": 0.0848266015676973,
+      "4": 0.07860302611934519
+    },
+    "preference_first_share": 0.37492551618186337,
+    "preference_null_95": 0.13634050384882457,
+    "preference_p": 0.0004997501249375312,
+    "preference_axis_vs_sensory_pc1": 0.6742464927807861,
+    "prefmap_model": "circular",
+    "prefmap_max_share": 0.95,
+    "prefmap_median_r2": 0.3377112655938576
+  }
+}

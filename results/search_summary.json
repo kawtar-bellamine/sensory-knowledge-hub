@@ -1,0 +1,10 @@
+{
+  "n_queries": 32,
+  "n_ranking": 27,
+  "n_abstain": 5,
+  "understood": 0.9375,
+  "assistant_precision": 0.9259259259259259,
+  "keyword_precision": 0.20246913580246914,
+  "keyword_expanded_precision": 0.6006172839506173,
+  "assistant_abstains_correctly": 1.0
+}
